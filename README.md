@@ -1,2 +1,5 @@
 # TOP
-The Odin Project тапсырмалары
+
+The Odin Project exercises
+
+URL: https://yeldar.org/TOP
