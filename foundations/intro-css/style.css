@@ -5,7 +5,7 @@ div {
     font-weight: bold;
 }
 
-li:nth-child(odd) {
+.numbers li:nth-child(odd) {
     background-color: #FF7F7F;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -29,8 +29,22 @@ li:nth-child(odd) {
     background-color: antiquewhite;
 }
 
-.comments li p {
+.comments {
     color: black;
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     font-weight: 500;
+}
+
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    color: #ffffff;
+    background-color: black;
+}
+
+.second {
+    background-color: yellow;
 }
