@@ -4,3 +4,33 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+li:nth-child(odd) {
+    background-color: #FF7F7F;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #0000FF;
+    font-size: 32px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.comments li {
+    background-color: antiquewhite;
+}
+
+.comments li p {
+    color: black;
+    background-color: antiquewhite;
+    font-weight: 500;
+}
